@@ -1,0 +1,10 @@
+Liquidación de Sueldo
+======================
+Nombre del trabajador: ari
+Sueldo base: $700.00
+Pago por horas extras: $360.94
+Total de ingresos: $1060.94
+Descuento por FONASA (7%): $74.27
+Descuento por AFP (10%): $106.09
+Sueldo neto a pagar: $880.58
+======================

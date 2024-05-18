@@ -1,0 +1,10 @@
+Liquidación de Sueldo
+==========
+Nombre del trabajador: kiki
+Sueldo base: $800000
+Pago por horas extras: $157500
+Total de ingresos: $957500
+Descuento por FONASA (7%): $67025
+Descuento por AFP (10%): $95750
+Sueldo neto a pagar: $794725
+==========

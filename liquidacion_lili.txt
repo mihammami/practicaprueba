@@ -1,0 +1,10 @@
+Liquidación de Sueldo
+======================
+Nombre del trabajador: lili
+Sueldo base: $900000.00
+Pago por horas extras: $472500.00
+Total de ingresos: $1372500.00
+Descuento por FONASA (7%): $96075.00
+Descuento por AFP (10%): $137250.00
+Sueldo neto a pagar: $1139175.00
+======================

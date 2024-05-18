@@ -1,0 +1,10 @@
+Liquidación de Sueldo
+==========
+Nombre del trabajador: anto
+Sueldo base: $800
+Pago por horas extras: $172
+Total de ingresos: $972
+Descuento por FONASA (7%): $68
+Descuento por AFP (10%): $97
+Sueldo neto a pagar: $807
+==========
